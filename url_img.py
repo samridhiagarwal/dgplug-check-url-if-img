@@ -3,7 +3,7 @@ VALID_IMAGE_EXTENSIONS = [
     ".jpg",
     ".jpeg",
     ".png",
-    ".gif",
+    ".svg",
 ]
 url = 'https://dgplug.org/assets/img/header.png'
 def if_img(url, extension_list=VALID_IMAGE_EXTENSIONS):
